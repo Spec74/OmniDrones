@@ -1,0 +1,6 @@
+{
+  "name": "OmniDrones",
+  "description": "Premium drone e-commerce catalog featuring simulated 3D model interaction, responsive configuration checkout, and personalized matching assistant quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
